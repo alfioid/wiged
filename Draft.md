@@ -1,5 +1,5 @@
 # Draft Spesifikasi Kebutuhan Perangkat Lunak (SRS)
-**Nama Proyek:** Sistem Manajemen Inventaris  
+**Nama Proyek:** Sistem Manajemen Inventaris (beta)  
 **Tanggal:** 9 Oktober 2026  
 
 ---
@@ -21,10 +21,13 @@ Dokumen ini memuat draf awal kebutuhan sistem untuk mengelola data barang dan pe
 
 ---
 
+
 ## 3. Kebutuhan Non-Fungsional (Non-Functional Requirements)
+
 
 | ID Kebutuhan | Kategori | Deskripsi Kebutuhan |
 | :--- | :--- | :--- |
 | **NFR-001** | *Usability* | Antarmuka sistem responsif dan mudah digunakan oleh pengguna awam. |
 | **NFR-002** | *Performance* | Waktu pemrosesan transaksi tidak melebihi 2 detik. |
 | **NFR-003** | *Security* | Password pengguna tersimpan dalam bentuk *hash* terenkripsi (misal: bcrypt). |
+

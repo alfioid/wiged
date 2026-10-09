@@ -1,1 +1,6 @@
-pembaruan selanjunya terkait yang ada
+## PERTEMUAN 7
+
+* untuk memenihi tugas mata kuliah rekayasa perangkat lunak
+
+
+kita coba lagi sehingga berhasil
